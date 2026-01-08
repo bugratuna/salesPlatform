@@ -1,0 +1,4 @@
+Title: food-business-site
+Product cards found: 4
+Cart count: 2
+Screenshot saved to verification/screenshot.png
